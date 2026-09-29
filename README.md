@@ -1,11 +1,11 @@
 # Selenium
 Теория и примеры использования Selenium
 
-## 01. Elements
+### 01. Elements
 Пример работы с веб-элементами и ввода текста в них.
 
-## 02. Upload & Download
+### 02. Upload & Download
 Пример загрузки файла на сайт и скачивания файлов-ссылок с сайта.
 
-## 03. Cooki & Wordstat
+### 03. Cookie & Wordstat
 Пример аутентификации с помощью cookie и скачивания отчета из Yandex Wordstat  с помощью запроса из Network.
